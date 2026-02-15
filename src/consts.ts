@@ -9,26 +9,26 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  TITLE: "经历",
+  DESCRIPTION: "我的那些经历",
 }
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  TITLE: "博客",
+  DESCRIPTION: "一些闲聊和我热爱的话题",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  TITLE: "项目",
+  DESCRIPTION: "我最近的和以前的项目",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  TITLE: "搜索",
+  DESCRIPTION: "搜索本网站的所有内容",
 }
 
 // Links
@@ -38,7 +38,7 @@ export const LINKS: Links = [
     HREF: "/", 
   },
   { 
-    TEXT: "工作", 
+    TEXT: "经历", 
     HREF: "/work", 
   },
   { 
@@ -54,28 +54,34 @@ export const LINKS: Links = [
 // Socials
 export const SOCIALS: Socials = [
   { 
-    NAME: "Email",
+    NAME: "电子邮件（个人）",
     ICON: "email", 
     TEXT: "donghanying20120408@outlook.com",
     HREF: "mailto:donghanying20120408@outlook.com",
   },
   { 
+    NAME: "电子邮件（MCJPG）",
+    ICON: "email", 
+    TEXT: "Call_Me_DongT@mcjpg.org",
+    HREF: "mailto:Call_Me_DongT@mcjpg.org",
+  },
+  { 
     NAME: "Github",
     ICON: "github",
     TEXT: "CallMeDongTeacher",
-    HREF: "https://github.com/CallMeDongTeacher/"
+    HREF: "https://github.com/CallMeDongTeacher"
   },
   { 
-    NAME: "LinkedIn",
-    ICON: "linkedin",
-    TEXT: "no",
-    HREF: "no",
+    NAME: "Bilibili",
+    ICON: "bilibili",
+    TEXT: "叫我董老实-元气TaskMgr",
+    HREF: "https://space.bilibili.com/1655020702",
   },
   { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "no",
-    HREF: "no",
+    NAME: "QQ、微信",
+    ICON: "wechat",
+    TEXT: "暂不公开",
+    HREF: "https://www.bilibili.com/video/BV1GJ411x7h7",
   },
 ]
 
