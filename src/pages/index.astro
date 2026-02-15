@@ -92,7 +92,7 @@ const stack = [
             <a href='/blog' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
               阅读我的博客
             </a>
-            <a href='/work' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
+            <a href='/project' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
               查看我的项目
             </a>
           </div>
@@ -107,12 +107,7 @@ const stack = [
       <!-- About Section -->
       <section class="animate">
         <article>
-          <p>I am a <b><i>software engineer</i></b>, <b><i>ui/ux designer</i></b>, <b><i>product planner</i></b>, <b><i>mentor</i></b>, <b><i>student</i></b>, <b><i>minimalist</i></b>, <b><i>eternal optimist</i></b>, <b><i>crypto enthusiast</i></b> and <b><i>sarcasm connoisseur</i></b>.</p>
-          <p>I love to both build and break things. I am motivated by challenging projects with self-guided research and dynamic problem solving. My true passion is crafting creative front end designs with unique takes on color, typography and motion.</p>
-          <p>During my career</p>
-          <p>I have built products ranging from marketing and ecommerce websites to complex enterprise apps with focus on delivering fast, elegant code along with delightful user interfaces.</p>
-          <p>Now</p>
-          <p>I currently work as a software engineer at StreamlineFS, where I do product planning, design and development.</p>
+          <p>小子，简介是不可能有的</p>
         </article>
       </section>
 
@@ -121,11 +116,11 @@ const stack = [
         <div class="space-y-4">
           <div class="flex justify-between">
             <p class="font-semibold text-black dark:text-white">
-              Recent posts
+              最近帖子
             </p>
             <a href="/blog" class="w-fit col-span-3 group flex gap-1 items-center underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
               <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                All posts
+                所以帖子
               </span>
             </a>
           </div>
@@ -143,7 +138,7 @@ const stack = [
       <section class="animate">
         <div class="space-y-4">
           <p class="font-semibold text-black dark:text-white">
-            Website build with
+            本网站使用以下语言构建（其实还有SolidJS）
           </p>
           <div class="flex flex-wrap items-center gap-2 mt-5">
             {stack.map(item => (
@@ -154,14 +149,6 @@ const stack = [
               />
             ))}
           </div>
-          <div>
-            Performing reactivity and statefulness, special guest
-            <a href="https://www.solidjs.com/" target="_blank" class="w-fit group underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
-              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                SolidJS
-              </span>
-            </a>
-          </div>
         </div>
       </section>
 
@@ -170,11 +157,11 @@ const stack = [
         <div class="space-y-4">
           <div class="flex justify-between">
             <p class="font-semibold text-black dark:text-white">
-              Recent projects
+              最近项目
             </p>
             <a href="/projects" class="w-fit col-span-3 group flex gap-1 items-center underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
               <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                All projects
+                所有项目
               </span>
             </a>
           </div>
@@ -192,10 +179,10 @@ const stack = [
       <section class="animate">
         <div>
           <p class="font-semibold text-black dark:text-white">
-            Let's Connect
+            联系我
           </p>
           <p>
-            Reach out to me via email or on social media.
+            通过以下的联系方式可以联系我
           </p>
           <div class="grid grid-cols-4 gap-y-2 mt-4 auto-cols-min">
             {SOCIALS.map(social => (
