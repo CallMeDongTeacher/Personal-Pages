@@ -4,10 +4,10 @@ summary: "Basic Markdown syntax that can be used when writing Markdown content i
 date: "Mar 13 2024"
 draft: false
 tags:
-- Tutorial
-- Astro
-- Astro Sphere
-- Markdown
+  - Tutorial
+  - Astro
+  - Astro Sphere
+  - Markdown
 ---
 
 ### Headings

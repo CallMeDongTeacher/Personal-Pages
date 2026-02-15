@@ -3,9 +3,12 @@ import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import solidJs from "@astrojs/solid-js"
+import edgeoneAdapter from "@edgeone/astro"
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://dhy-8yd.pages.dev",
+  output: "static",
+  adapter: edgeoneAdapter(),
+  site: "https://astro-sphere.edgeone.app/",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
