@@ -9,6 +9,6 @@ import edgeoneAdapter from "@edgeone/astro"
 export default defineConfig({
   output: "static",
   adapter: edgeoneAdapter(),
-  site: "https://astro-sphere.edgeone.app/",
+  site: "https://dhy-8yd.pages.dev",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
