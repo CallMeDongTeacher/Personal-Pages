@@ -2,7 +2,6 @@
 title: "Omnicraft"
 summary: "一个我的世界服务器及其网站"
 date: "2026年2月13日开始"
-draft: false
 tags:
 - Minecraft
 - Website

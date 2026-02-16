@@ -2,7 +2,6 @@
 title: "个人主页"
 summary: "我的个人主页（即本网站）"
 date: "2026年2月14日开始"
-draft: false
 tags:
 - Website
 - Personal
