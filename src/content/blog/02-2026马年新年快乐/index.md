@@ -1,7 +1,7 @@
 ---
 title: "2026马年新年快乐"
 summary: "新的一年里，祝您......"
-date: "2026年2月16日"
+date: "02/16/2026"
 tags:
 - Personal
 - Chat

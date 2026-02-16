@@ -1,7 +1,7 @@
 ---
 title: "MCCSL"
 summary: "MineCraft Client & Server Laucher"
-date: "2023年"
+date: "06/01/2023"
 tags:
 - Minecraft
 - Personal

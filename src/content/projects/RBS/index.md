@@ -1,7 +1,7 @@
 ---
 title: "RBS"
 summary: "一个我的世界服务器，倒闭"
-date: "2023年开始"
+date: "06/24/2023"
 tags:
 - Minecraft
 - Personal
