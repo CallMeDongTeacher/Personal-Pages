@@ -1,28 +1,24 @@
 ---
-title: "Privacy Policy"
-date: "03/07/2024"
+title: "隐私政策"
+date: "2026年2月16日"
 ---
 
-This Privacy Policy governs the manner in which [Your Company Name] collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site"). This privacy policy applies to the Site and all products and services offered by [Your Company Name].
+### 隐私声明
 
-#### Personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+	欢迎访问我的个人主页。**本网站不收集任何个人隐私信息。**
 
-#### Non-personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### 不主动收集信息
 
-#### Web browser cookies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+	本网站**没有**设置任何评论、留言、注册或表单功能。因此，我不会主动向您询问、收集或要求提供任何个人信息，包括但不限于您的姓名、电子邮件地址、联系方式等。
 
-#### How we use collected information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### 关于服务器日志
 
-#### How we protect your information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+	作为网站正常运行的基础，托管服务商（Cloudflare Pages）可能会在其服务器端自动生成标准的访问日志，其中可能包含IP地址、访问时间、浏览器类型等常规技术信息。这是互联网服务商为保障网站安全、稳定运行以及进行基础诊断而普遍存在的技术记录。**本人无法访问、查阅或使用这些原始日志数据，也不会将其用于任何追踪或分析个人身份的目的。**
 
-#### Sharing your personal information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+#### 关于Cookies
 
-#### Changes to this privacy policy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+	本网站**不主动设置或使用**任何用于追踪、分析或广告的Cookies。网站构建所使用的技术本身不会在您的设备上留下任何用于识别个人身份的跟踪标记。
 
+#### 外部链接
+
+	本网站可能包含指向第三方站点的链接。点击这些链接后将离开本网站，我对第三方网站的内容及其隐私实践不承担任何责任。如果您选择通过电子邮件联系我，您发送的邮件内容将仅用于沟通目的。

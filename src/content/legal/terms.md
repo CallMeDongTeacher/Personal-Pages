@@ -1,27 +1,27 @@
 ---
-title: "Terms of Use"
-date: "03/07/2024"
+title: "免责声明"
+date: "2026年2月16日"
 ---
 
-Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [Your Website URL] website (the "Service") operated by [Your Company Name] ("us", "we", or "our").
+### 免责声明
 
-#### Agreement to Terms
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+	欢迎访问我的个人主页。本网站由我创建和维护，是我个人的一方网络小天地。在使用本网站之前，请了解以下几点：
 
-#### Intellectual Property Rights
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####内容性质
+	网站内所有内容，包括但不限于文字、图片、项目展示、个人观点等，**均为我个人兴趣的表达与分享，不代表任何组织、机构或他人的立场**。内容仅供参考和交流，不构成任何专业建议或承诺。
 
-#### User Representations
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####信息准确性
+	我尽力确保自己发布内容的准确性，但受个人能力和信息时效所限，无法保证网站所有信息的完全正确、完整或及时。您如果基于本站内容做出任何决定或行动，请自行核实并承担相应风险。
 
-#### Links to Other Websites
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####外部链接	
+	网站上可能会有一些我提供的链接，这些链接是为了方便大家获取信息或与我联系。点击这些链接会离开我的网站，**我对被链接网站的内容、准确性、可用性及其隐私保护等不承担任何责任**。
 
-#### Termination
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####版权声明
+	本网站源码遵循GPL 3.0协议中，除非特别说明，所有原创内容（包括代码、文案、设计等）的版权均归我本人所有。未经许可，请勿将本站原创内容用于商业用途。转载或使用其他内容，请尊重原作者权利。
 
-#### Governing Law
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####网站运行
+	我会努力维护这个网站的正常运行，但网站可能会因技术维护、服务器问题或不可抗力等原因出现暂时无法访问、数据丢失等情况。对此我无法预先承担保证责任。
 
-#### Changes to These Terms of Use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+####条款更新
+	我可能会不时更新这份免责声明，以更好地反映网站情况。更新后的声明会在这里发布，您继续使用本网站即表示您知晓并接受当时的声明内容。
+如有任何问题，欢迎通过网站上提供的电子邮件联系我。
