@@ -68,3 +68,5 @@ tags:
 ![38](./38.png)
 ![39](./39.png)
 ![40](./40.png)
+
+MCJPG活动回放：https://www.123865.com/s/O3CyVv-zwLLH
