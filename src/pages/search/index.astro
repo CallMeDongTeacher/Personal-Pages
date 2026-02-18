@@ -18,7 +18,10 @@ const data = [...posts, ...projects] as CollectionEntry<"blog">[];
 <PageLayout title={SEARCH.TITLE} description={SEARCH.DESCRIPTION}>
   <TopLayout>
     <div class="animate page-heading">
-      {SEARCH.TITLE}本页面文章、文段、示例代码等无特殊说明，均遵循知识共享署名-非商业使用-相同方式共享（CC BY-NC-SA 4.0）协议
+      {SEARCH.TITLE}
+      <p class="font-normal opacity-75">
+        本页面文章、文段、示例代码等无特殊说明，均遵循知识共享署名-非商业使用-相同方式共享（CC BY-NC-SA 4.0）协议
+      </p>
     </div>
   </TopLayout>
   <BottomLayout>
