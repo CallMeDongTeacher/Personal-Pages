@@ -7,7 +7,10 @@ import cloudflare from '@astrojs/cloudflare'
 
 export default defineConfig({
   output: 'server',          // 改为 server 模式
-  adapter: cloudflare({ mode: 'advanced' }),
+  adapter: cloudflare({
+    mode: "advanced",
+    imageService: "compile"
+  }),
   site: 'https://dhy-8yd.pages.dev',
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
