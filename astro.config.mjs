@@ -3,12 +3,14 @@ import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import solidJs from "@astrojs/solid-js"
-import edgeoneAdapter from "@edgeone/astro"
+import cloudflare from '@astrojs/cloudflare'
 
-// https://astro.build/config
 export default defineConfig({
-  output: "static",
-  adapter: edgeoneAdapter(),
-  site: "https://dhy-8yd.pages.dev",
+  output: 'static',
+  adapter: cloudflare({
+    mode: "advanced",
+    imageService: "compile"
+  }),
+  site: 'https://dhy-8yd.pages.dev',
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
