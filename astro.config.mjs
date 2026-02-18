@@ -6,7 +6,7 @@ import solidJs from "@astrojs/solid-js"
 import cloudflare from '@astrojs/cloudflare'
 
 export default defineConfig({
-  output: 'server',          // 改为 server 模式
+  output: 'static',
   adapter: cloudflare({
     mode: "advanced",
     imageService: "compile"
