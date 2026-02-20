@@ -56,14 +56,14 @@ export const SOCIALS: Socials = [
   { 
     NAME: "电子邮件（个人）",
     ICON: "email", 
-    TEXT: "donghanying20120408@outlook.com",
-    HREF: "mailto:donghanying20120408@outlook.com",
+    TEXT: "personal@callmedongt.vip",
+    HREF: "mailto:personal@callmedongt.vip",
   },
   { 
     NAME: "电子邮件（MCJPG）",
     ICON: "email", 
-    TEXT: "Call_Me_DongT@mcjpg.org",
-    HREF: "mailto:Call_Me_DongT@mcjpg.org",
+    TEXT: "mcjpg@callmedongt.vip",
+    HREF: "mailto:mcjpg@callmedongt.vip",
   },
   { 
     NAME: "Github",

@@ -11,6 +11,6 @@ export default defineConfig({
     mode: "advanced",
     imageService: "compile"
   }),
-  site: 'https://dhy-8yd.pages.dev',
+  site: 'https://callmedongt.vip',
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
