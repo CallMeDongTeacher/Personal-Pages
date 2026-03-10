@@ -11,6 +11,6 @@ export default defineConfig({
     mode: "advanced",
     imageService: "compile"
   }),
-  site: 'https://callmedongt.vip',
+  site: 'https://www.cmtd.top',
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
