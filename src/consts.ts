@@ -10,7 +10,7 @@ export const SITE: Site = {
 // Work Page
 export const WORK: Page = {
   TITLE: "经历",
-  DESCRIPTION: "我的那些经历",
+  DESCRIPTION: "生平",
 }
 
 // Blog Page
@@ -56,14 +56,14 @@ export const SOCIALS: Socials = [
   { 
     NAME: "电子邮件（个人）",
     ICON: "email", 
-    TEXT: "personal@callmedongt.vip",
-    HREF: "mailto:personal@callmedongt.vip",
+    TEXT: "personal@cmtd.top",
+    HREF: "mailto:personal@cmtd.top",
   },
   { 
     NAME: "电子邮件（MCJPG）",
     ICON: "email", 
-    TEXT: "mcjpg@callmedongt.vip",
-    HREF: "mailto:mcjpg@callmedongt.vip",
+    TEXT: "mcjpg@cmtd.top",
+    HREF: "mailto:mcjpg@cmtd.top",
   },
   { 
     NAME: "Github",
@@ -75,7 +75,8 @@ export const SOCIALS: Socials = [
     NAME: "Bilibili",
     ICON: "bilibili",
     TEXT: "叫我董老实-元气TaskMgr",
-    HREF: "https://space.bilibili.com/1655020702",
+    HREF:
+"https://space.bilibili.com/1655020702",
   },
   { 
     NAME: "QQ、微信",
